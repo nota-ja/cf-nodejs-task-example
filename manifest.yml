@@ -1,0 +1,4 @@
+---
+applications:
+  - name: nodetask
+    ramdom-route: true

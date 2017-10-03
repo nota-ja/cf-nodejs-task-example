@@ -1,0 +1,13 @@
+{
+    "name" : "nodejs_task_example",
+    "version": "0.1.0",
+    "engines": {
+	"node": ">=6.10.2"
+    },
+    "dependencies": {
+	"coffee-script": "1.7.1"
+    },
+    "scripts": {
+	"coffee-help": "coffee --help"
+    }
+}
